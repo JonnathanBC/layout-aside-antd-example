@@ -1,0 +1,7 @@
+.ant-layout-sider {
+  background: #fff;
+}
+
+.ant-layout-sider-children {
+  box-shadow: 2px 4px 6px #00000029;
+}
